@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reacr-firebase-demo/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/reacr-firebase-demo/static/js/main.1580f5ea.chunk.js",
+    "main.js.map": "/reacr-firebase-demo/static/js/main.1580f5ea.chunk.js.map",
+    "runtime-main.js": "/reacr-firebase-demo/static/js/runtime-main.c6a29435.js",
+    "runtime-main.js.map": "/reacr-firebase-demo/static/js/runtime-main.c6a29435.js.map",
+    "static/css/2.8757ddda.chunk.css": "/reacr-firebase-demo/static/css/2.8757ddda.chunk.css",
+    "static/js/2.3119fb34.chunk.js": "/reacr-firebase-demo/static/js/2.3119fb34.chunk.js",
+    "static/js/2.3119fb34.chunk.js.map": "/reacr-firebase-demo/static/js/2.3119fb34.chunk.js.map",
+    "static/js/3.a8c4081a.chunk.js": "/reacr-firebase-demo/static/js/3.a8c4081a.chunk.js",
+    "static/js/3.a8c4081a.chunk.js.map": "/reacr-firebase-demo/static/js/3.a8c4081a.chunk.js.map",
+    "index.html": "/reacr-firebase-demo/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "/reacr-firebase-demo/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/reacr-firebase-demo/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3119fb34.chunk.js.LICENSE.txt": "/reacr-firebase-demo/static/js/2.3119fb34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a29435.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.3119fb34.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.1580f5ea.chunk.js"
+  ]
+}
